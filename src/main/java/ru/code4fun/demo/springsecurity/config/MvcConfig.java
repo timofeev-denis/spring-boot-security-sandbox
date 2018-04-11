@@ -1,4 +1,4 @@
-package ru.code4fun.demo.springsecurity;
+package ru.code4fun.demo.springsecurity.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
